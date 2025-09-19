@@ -1,10 +1,22 @@
 body{
     margin: auto;
     padding: auto;
-    background color: aqua;
+    background-color: lightblue;
+}
+h1{
+    color: aliceblue
 }
 
 p {
     font-family: sans-serif
     font-size: 12px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 2em;
+}
+
+ul{
+    text-align: center
 }
