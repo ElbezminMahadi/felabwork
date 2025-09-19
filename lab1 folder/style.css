@@ -1,0 +1,10 @@
+body{
+    margin: auto;
+    padding: auto;
+    background color: aqua;
+}
+
+p {
+    font-family: sans-serif
+    font-size: 12px;
+}
